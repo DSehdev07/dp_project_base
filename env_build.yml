@@ -1,0 +1,4 @@
+name: dp_conda_env
+dependencies:
+  - jsonschema
+  - python=3.9.0
